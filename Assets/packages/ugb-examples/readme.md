@@ -1,1 +1,0 @@
-This repository contains examples on how to use the Unity Game Base. 
