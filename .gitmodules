@@ -1,0 +1,3 @@
+[submodule "Assets/packages/ugb-source"]
+	path = Assets/packages/ugb-source
+	url = https://kaiwegner@bitbucket.org/kaiwegner/ugb-source.git
