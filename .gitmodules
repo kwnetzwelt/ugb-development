@@ -1,6 +1,6 @@
 [submodule "Assets/packages/ugb-source"]
 	path = Assets/packages/ugb-source
-	url = https://kaiwegner@bitbucket.org/kaiwegner/ugb-source.git
+url=https://github.com/kwnetzwelt/ugb-source.git
 [submodule "Assets/packages/ugb-examples"]
 	path = Assets/packages/ugb-examples
-	url = https://kaiwegner@bitbucket.org/kaiwegner/ugb-examples.git
+url=https://github.com/kwnetzwelt/ugb-examples.git
